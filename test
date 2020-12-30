@@ -1,0 +1,13 @@
+{
+'host': '147.91.209.2',
+'ports': [
+    { 'port_num':'22',
+      'status': 'open',
+      'service':'ssh;    
+    },
+     { 'port_num':'80',
+      'status': 'open',
+      'service':'http;    
+    }
+]
+}
